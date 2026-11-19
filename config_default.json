@@ -1,0 +1,11 @@
+{
+  "source_dir": "data",
+  "backup_dir": "backups",
+  "block_size": 65536,
+  "exclude_patterns": ["*.bak"],
+  "keep_copies": 5,
+  "min_free_gb": 5.0,
+  "full_name": "Дробитько Артём Антонович",
+  "group": "48-А",
+  "variant": 2
+}

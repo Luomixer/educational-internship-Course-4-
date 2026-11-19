@@ -1,0 +1,319 @@
+﻿{
+    "computer":  "DESKTOP-9THNMP0",
+    "os":  "Microsoft Windows 10 Pro",
+    "os_version":  "10.0.19045 (Build 19045)",
+    "cpu_name":  "AMD Ryzen 5 3600 6-Core Processor              ",
+    "cpu_cores":  6,
+    "ram_gb":  15.9,
+    "disks":  [
+                  {
+                      "letter":  "C:",
+                      "size_gb":  222.94,
+                      "free_gb":  14.81
+                  },
+                  {
+                      "letter":  "D:",
+                      "size_gb":  1863.01,
+                      "free_gb":  511.93
+                  }
+              ],
+    "top_processes":  [
+                          {
+                              "name":  "Discord",
+                              "mb":  603.53
+                          },
+                          {
+                              "name":  "chrome",
+                              "mb":  570.75
+                          },
+                          {
+                              "name":  "chrome",
+                              "mb":  521.95
+                          },
+                          {
+                              "name":  "Code",
+                              "mb":  477.98
+                          },
+                          {
+                              "name":  "MsMpEng",
+                              "mb":  384.87
+                          }
+                      ],
+    "hotfix_count":  54,
+    "critical_events_7d":  20,
+    "listening_ports":  25,
+    "collected_at":  "2026-11-19 15:28:46",
+    "latest_hotfixes":  [
+                            {
+                                "hotfix_id":  "KB5126256",
+                                "description":  "Security Update",
+                                "installed_on":  "2026-09-09"
+                            },
+                            {
+                                "hotfix_id":  "KB5072653",
+                                "description":  "Security Update",
+                                "installed_on":  "2025-12-20"
+                            },
+                            {
+                                "hotfix_id":  "KB5066130",
+                                "description":  "Update",
+                                "installed_on":  "2025-10-15"
+                            },
+                            {
+                                "hotfix_id":  "KB5066791",
+                                "description":  "Security Update",
+                                "installed_on":  "2025-10-15"
+                            },
+                            {
+                                "hotfix_id":  "KB5066790",
+                                "description":  "Security Update",
+                                "installed_on":  "2025-10-15"
+                            }
+                        ],
+    "running_services":  105,
+    "critical_events_list":  [
+                                 {
+                                     "time_created":  "2026-11-19 07:51:44",
+                                     "id":  1801,
+                                     "provider_name":  "Microsoft-Windows-TPM-WMI"
+                                 },
+                                 {
+                                     "time_created":  "2026-11-19 07:50:14",
+                                     "id":  7034,
+                                     "provider_name":  "Service Control Manager"
+                                 },
+                                 {
+                                     "time_created":  "2026-11-19 07:48:52",
+                                     "id":  7000,
+                                     "provider_name":  "Service Control Manager"
+                                 },
+                                 {
+                                     "time_created":  "2026-11-19 07:48:52",
+                                     "id":  7009,
+                                     "provider_name":  "Service Control Manager"
+                                 },
+                                 {
+                                     "time_created":  "2026-11-19 07:46:48",
+                                     "id":  7000,
+                                     "provider_name":  "Service Control Manager"
+                                 },
+                                 {
+                                     "time_created":  "2026-11-19 07:46:48",
+                                     "id":  7000,
+                                     "provider_name":  "Service Control Manager"
+                                 },
+                                 {
+                                     "time_created":  "2026-11-19 07:46:48",
+                                     "id":  7000,
+                                     "provider_name":  "Service Control Manager"
+                                 },
+                                 {
+                                     "time_created":  "2026-11-19 07:46:24",
+                                     "id":  41,
+                                     "provider_name":  "Microsoft-Windows-Kernel-Power"
+                                 },
+                                 {
+                                     "time_created":  "2026-11-19 07:46:43",
+                                     "id":  6008,
+                                     "provider_name":  "EventLog"
+                                 },
+                                 {
+                                     "time_created":  "2026-11-19 07:46:17",
+                                     "id":  29,
+                                     "provider_name":  "Microsoft-Windows-Kernel-Boot"
+                                 },
+                                 {
+                                     "time_created":  "2026-11-19 05:16:44",
+                                     "id":  10010,
+                                     "provider_name":  "Microsoft-Windows-DistributedCOM"
+                                 },
+                                 {
+                                     "time_created":  "2026-11-19 05:16:44",
+                                     "id":  10010,
+                                     "provider_name":  "Microsoft-Windows-DistributedCOM"
+                                 },
+                                 {
+                                     "time_created":  "2026-11-19 02:16:39",
+                                     "id":  2505,
+                                     "provider_name":  "Server"
+                                 },
+                                 {
+                                     "time_created":  "2026-11-19 02:16:39",
+                                     "id":  2505,
+                                     "provider_name":  "Server"
+                                 },
+                                 {
+                                     "time_created":  "2026-11-19 02:16:39",
+                                     "id":  2505,
+                                     "provider_name":  "Server"
+                                 },
+                                 {
+                                     "time_created":  "2026-11-19 02:16:39",
+                                     "id":  2505,
+                                     "provider_name":  "Server"
+                                 },
+                                 {
+                                     "time_created":  "2026-11-19 02:15:46",
+                                     "id":  2505,
+                                     "provider_name":  "Server"
+                                 },
+                                 {
+                                     "time_created":  "2026-11-19 02:15:46",
+                                     "id":  2505,
+                                     "provider_name":  "Server"
+                                 },
+                                 {
+                                     "time_created":  "2026-11-19 02:15:46",
+                                     "id":  2505,
+                                     "provider_name":  "Server"
+                                 },
+                                 {
+                                     "time_created":  "2026-11-19 02:15:46",
+                                     "id":  2505,
+                                     "provider_name":  "Server"
+                                 }
+                             ],
+    "video_driver":  {
+                         "device_name":  "NVIDIA GeForce RTX 2060",
+                         "driver_version":  "32.0.16.1074",
+                         "driver_date":  "2026-02-07"
+                     },
+    "bios":  {
+                 "smbios_bios_version":  "F50",
+                 "release_date":  "2019-11-27"
+             },
+    "net_adapters":  [
+
+                     ],
+    "listening_ports_detail":  [
+                                   {
+                                       "port":  49664,
+                                       "address":  "0.0.0.0",
+                                       "pid":  980
+                                   },
+                                   {
+                                       "port":  10809,
+                                       "address":  "127.0.0.1",
+                                       "pid":  3584
+                                   },
+                                   {
+                                       "port":  10808,
+                                       "address":  "127.0.0.1",
+                                       "pid":  3584
+                                   },
+                                   {
+                                       "port":  49667,
+                                       "address":  "0.0.0.0",
+                                       "pid":  1756
+                                   },
+                                   {
+                                       "port":  49666,
+                                       "address":  "0.0.0.0",
+                                       "pid":  1532
+                                   },
+                                   {
+                                       "port":  49665,
+                                       "address":  "0.0.0.0",
+                                       "pid":  892
+                                   },
+                                   {
+                                       "port":  139,
+                                       "address":  "192.168.0.200",
+                                       "pid":  4
+                                   },
+                                   {
+                                       "port":  139,
+                                       "address":  "10.6.7.1",
+                                       "pid":  4
+                                   },
+                                   {
+                                       "port":  135,
+                                       "address":  "0.0.0.0",
+                                       "pid":  1200
+                                   },
+                                   {
+                                       "port":  6463,
+                                       "address":  "127.0.0.1",
+                                       "pid":  15448
+                                   },
+                                   {
+                                       "port":  5354,
+                                       "address":  "127.0.0.1",
+                                       "pid":  4044
+                                   },
+                                   {
+                                       "port":  5040,
+                                       "address":  "0.0.0.0",
+                                       "pid":  9140
+                                   },
+                                   {
+                                       "port":  49668,
+                                       "address":  "0.0.0.0",
+                                       "pid":  3572
+                                   },
+                                   {
+                                       "port":  49666,
+                                       "address":  "::",
+                                       "pid":  1532
+                                   },
+                                   {
+                                       "port":  49665,
+                                       "address":  "::",
+                                       "pid":  892
+                                   },
+                                   {
+                                       "port":  49664,
+                                       "address":  "::",
+                                       "pid":  980
+                                   },
+                                   {
+                                       "port":  49684,
+                                       "address":  "::",
+                                       "pid":  964
+                                   },
+                                   {
+                                       "port":  49668,
+                                       "address":  "::",
+                                       "pid":  3572
+                                   },
+                                   {
+                                       "port":  49667,
+                                       "address":  "::",
+                                       "pid":  1756
+                                   },
+                                   {
+                                       "port":  55278,
+                                       "address":  "127.0.0.1",
+                                       "pid":  6096
+                                   },
+                                   {
+                                       "port":  50010,
+                                       "address":  "10.6.7.1",
+                                       "pid":  4156
+                                   },
+                                   {
+                                       "port":  49684,
+                                       "address":  "0.0.0.0",
+                                       "pid":  964
+                                   },
+                                   {
+                                       "port":  5357,
+                                       "address":  "::",
+                                       "pid":  4
+                                   },
+                                   {
+                                       "port":  445,
+                                       "address":  "::",
+                                       "pid":  4
+                                   },
+                                   {
+                                       "port":  135,
+                                       "address":  "::",
+                                       "pid":  1200
+                                   }
+                               ],
+    "reference_file_hash":  {
+                                "path":  "C:\\UP04_Test\\data\\pf.txt",
+                                "sha256":  "3CFDDE710629133FEE5AAC45D2E7F9E20895BF3E2FFC584D2DAEFE8B52E16A13"
+                            }
+}
